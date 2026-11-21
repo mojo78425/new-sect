@@ -1,0 +1,86 @@
+.rach{
+    display: flex;
+    position: relative; justify-content: center;
+}
+.boxred{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+position: absolute;
+height: 150px; 
+width: 150px;
+border-radius: 15px;
+z-index: 1;
+}
+.boxgreen{
+    background-color: green;
+   color: white;
+    font-size: 30px;
+position: absolute;
+height: 150px; 
+width: 150px;
+border-radius: 15px;
+z-index: 2;
+margin-left: 65px;
+margin-top: 30px;
+}
+.boxyellow{
+    background-color: yellow;
+    color: white;
+    font-size: 30px;
+position: absolute;
+height: 150px; 
+width: 150px;
+border-radius: 15px;
+z-index: 3;
+margin-left: 130px;
+margin-top: 60px;
+}
+.boxblue{
+    background-color:blue;
+    color: white;
+    font-size: 30px;
+position: absolute;
+height: 150px; 
+width: 150px;
+border-radius: 15px;
+z-index: 4;
+margin-left: 200px;
+margin-top: 90px;
+}
+.boxblack{
+   background-color:black;
+    color: white;
+    font-size: 30px;
+position: absolute;
+height: 150px; 
+width: 150px;
+border-radius: 15px;
+z-index: 5;
+margin-left: 250px;
+margin-top: 120px; 
+}
+.boxgrey{
+    background-color:grey;
+    color: white;
+    font-size: 30px;
+position: absolute;
+height: 150px; 
+width: 150px;
+border-radius: 15px;
+z-index: 6;
+margin-left: 300px;
+margin-top: 150px;
+}
+.boxbrown{
+    background-color:brown;
+    color: white;
+    font-size: 30px;
+position: absolute;
+height: 150px; 
+width: 150px;
+border-radius: 15px;
+z-index: 7;
+margin-left: 350px;
+margin-top: 180px;
+}
